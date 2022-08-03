@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [MongoDB](https://www.mongodb.com/)
 - [Express](https://expressjs.com/pt-br/)
 - [webpack](https://webpack.js.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 <br>
 
