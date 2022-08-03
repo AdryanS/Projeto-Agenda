@@ -1,4 +1,4 @@
-# projeto-agenda 🖋
+# Projeto-agenda 🖋
 
 <br>
 
@@ -26,15 +26,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### O Projeto Agenda foi desenvolvido para criar agendas de contatos, foi feito no curso do [Luiz Otávio Miranda](https://www.youtube.com/c/Ot%C3%A1vioMiranda), na plataforma de cursos [Udemy](https://www.udemy.com/).
 
-o projeto conta com algumas funcionalidades:
+O projeto conta com algumas funcionalidades:
 
 - Uma pagina para criar e entrar em sua conta.
-  - nesse login tem uma segurança de senhas, usando um hash de senhas com [bcryptjs](https://www.npmjs.com/package/bcryptjs).
-  - o login tambem tem um validador de emails usando [validator](https://www.npmjs.com/package/validator).
+  - Nesse login tem uma segurança de senhas, usando um hash de senhas com [bcryptjs](https://www.npmjs.com/package/bcryptjs).
+  - O login também tem um validador de e-mails usando [validator](https://www.npmjs.com/package/validator).
 <br>
 
 - Um CRUD de contatos.
-  - Create: Cria novos contatos.
+  - Create: Cria contatos.
   - Read: Mostra os contatos na tela.
   - Update: Atualiza os contatos.
   - Delete: Deleta os contatos
@@ -43,7 +43,7 @@ o projeto conta com algumas funcionalidades:
 
 ## 🚀 Como executar
 
-#### Para execultar esse projeto voce precisa criar um arquivo no projeto chamado .env, dentro desse arquivo se deve colocar:
+#### Para executar esse projeto você precisa criar um arquivo no projeto chamado ".env", dentro desse arquivo se deve colocar:
 
 ```env
   CONNECTIONSTRING="sua conexão ao MongoDB"
@@ -66,7 +66,7 @@ npm install
 
 npm start
 
-# projeto agenta sera executado na porta: http://localhost:3000
+# projeto agenda será executado na porta: http://localhost:3000
 ```
 
 <br>
